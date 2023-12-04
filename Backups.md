@@ -5,7 +5,7 @@
   2. Have a Year, 6 months, month, and week backup image on hand in a secure system (preferably offline or isolated)
     - Change the timing of images as seen as need for the current system
   3. Implement a yearly archive backup for important info and configurations (Also preferably offline or isolated) 
-    - Then take these HDDs and store them in a secure location that can be installed into a system as needed
+    - Then take these HDDs and store them in a secure location that can be installed into a system as needed (hopefully on encrypted HDDs)
   4. Automate these processes as much as possible (with an imaging system that puts info onto an encrypted usb)
 
 ## When making backups for end hosts I would implement the following:

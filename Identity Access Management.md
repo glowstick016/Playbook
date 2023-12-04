@@ -1,4 +1,4 @@
-Implementign a new user:
+# Implementign a new user:
   1. Image a computer for the user from a Golden Image
   2. Implement the required programs that aren't on the golden image 
   3. Setup any other processes that the user might need (like backup processes, etc.)
@@ -22,3 +22,21 @@ Removing a user:
     - Reimage the laptop to wipe it
     - Collect the monitor, keyboard, etc that they used
   5. Remove their system and name from our machine database
+
+
+Organize Users:
+  1. Implement group based policies
+    - PAM for Linux 
+    - AD for Windows 
+  2. Assign groups based on needed permissions
+    - General worker
+    - Elevated workers (IT)
+    - System Accounts
+    - System Admin Accounts
+    - Admin Accounts 
+  3. Assign secure systems to keep the Admin account safe
+    - Secure long password 
+    - 2FA+ 
+    - Password changes often especially when the team changes 
+    - Limited amount of people know the password 
+    - Log whenever the account is used

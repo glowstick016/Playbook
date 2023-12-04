@@ -13,4 +13,5 @@
   7. Implement the fix that was found 
     - Or if not found / not worthwhile to fix implement the system in a secure matter to help lower the chances of infection 
   8. Reimplement the system into production 
-  9. Watch over the system for a couple days to make sure everything is working as it should be. 
+  9. Watch over the system for a couple days to make sure everything is working as it should be.
+  10. Document the system and how you fixed the issue

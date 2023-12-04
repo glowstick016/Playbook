@@ -1,4 +1,6 @@
-# Implementign a new user:
+# Identity Access Management 
+
+## Implementign a new user:
   1. Image a computer for the user from a Golden Image
   2. Implement the required programs that aren't on the golden image 
   3. Setup any other processes that the user might need (like backup processes, etc.)
@@ -11,7 +13,7 @@
   7. Give a quick explination to the user on what their rights on the computer are 
 
 
-Removing a user:
+## Removing a user:
   1. Remove the user credentials from systems and/or user's account depending on the situation
   2. Go through the files and split them into the following categories:
     - Our files 
@@ -24,7 +26,7 @@ Removing a user:
   5. Remove their system and name from our machine database
 
 
-Organize Users:
+## Organize Users:
   1. Implement group based policies
     - PAM for Linux 
     - AD for Windows 

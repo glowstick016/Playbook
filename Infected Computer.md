@@ -1,4 +1,6 @@
-When encountering an issue with an infected computer the following steps would be taken:
+# Infected Computers
+
+## When encountering an issue with an infected computer the following steps would be taken:
   1. Read the issue to better understand what is happening and on what machine
   2. Quarentine the computer and the do some of the following:
     - Remove from the network via firewall or physical connections 

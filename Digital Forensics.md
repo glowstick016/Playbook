@@ -1,6 +1,6 @@
 # Digital Forensics 
 
-## Dealing with digitla forensics recovery:
+## Dealing with digital forensics recovery:
 1. First step is to isolate the target in a timely mannor so that people can't change files on the system:
    - Could be removing people from accessing it
    - Or removing it from the network without powering it down
